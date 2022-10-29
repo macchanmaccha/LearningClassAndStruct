@@ -1,2 +1,2 @@
 # LearningClassAndStruct
-classとstructについて学んだことを記載
+classとstructについて学んだことを記載しています
