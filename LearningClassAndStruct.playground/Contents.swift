@@ -23,6 +23,7 @@ let tama: Cat = Cat()
 let pochi: Dog = Dog()
 
 func initWithData(_ data: Cat) {
+    // Cat()そのものが渡され、書き換わn
  var data = data
  data.like = "マタタビ"
 }
